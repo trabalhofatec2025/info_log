@@ -1,4 +1,33 @@
 # info_log
+INFORMÁTICA_LOGÍSTICA
+Trabalhos realizados e entregues na disciplina de Informática Aplicada
+
+Atividade 1: Apresentação em grupo no Canva
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/537bebe6-1cc9-4a1a-9bef-12c5ca6caa36" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Trabalho informatica
 Tabela: Dinamica Grafico - Foi usado a opção "Graficos Dinamicos e Tabelas Dinamicas" em "Inserir"
 Tabela: Perguntas - 1 - Pergunta. Qual a maior especialidade de restaurantes no Brasil.
