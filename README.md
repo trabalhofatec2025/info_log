@@ -15,6 +15,7 @@ Aprendemos a fazer análise de dados, inclusive usando o PROCV.
 
 Atividade 4: Power BI
 Aprendemos a manusear e tratar dados no Power BI.
+<img width="1435" height="803" alt="image" src="https://github.com/user-attachments/assets/b9e92b6d-c981-44c5-93e1-f2b09fa27405" />
 
 
 
