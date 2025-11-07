@@ -35,11 +35,16 @@ Aprendemos a manusear e tratar dados no Power BI.
 
 <img width="1440" height="790" alt="image" src="https://github.com/user-attachments/assets/318e93c8-7b2f-4c0d-868c-82b545d8bc94" />
 
-# Atividade 6 - Regressão Linear - Venda de Sorvete
+# Atividade 6: Regressão Linear - Venda de Sorvete
 
 <img width="1918" height="1033" alt="image" src="https://github.com/user-attachments/assets/f663da06-db8c-4907-b522-c0331d3ed633" />
 <img width="1915" height="942" alt="image" src="https://github.com/user-attachments/assets/4a449092-6d23-4d8b-bf1d-f8b38d52ee8a" />
 
+
+# Atividade 7: Regressão Linear - Salario
+
+<img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/046b2399-c8ad-4aed-92a7-15c76be96885" />
+<img width="1916" height="949" alt="image" src="https://github.com/user-attachments/assets/1e8a8331-8715-4502-b6c0-ca7f092879f2" />
 
 
 
