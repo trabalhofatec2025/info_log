@@ -16,18 +16,14 @@ Aprendemos a fazer análise de dados, inclusive usando o PROCV.
 Aprendemos a manusear e tratar dados no Power BI.
 <img width="1435" height="803" alt="image" src="https://github.com/user-attachments/assets/b9e92b6d-c981-44c5-93e1-f2b09fa27405" />
 
+# Atividade 5: Power BI Exportação 2025
 
-# Atividade 5 - Regressão Linear - Venda de Sorvete
+<img width="1440" height="790" alt="image" src="https://github.com/user-attachments/assets/318e93c8-7b2f-4c0d-868c-82b545d8bc94" />
+
+# Atividade 6 - Regressão Linear - Venda de Sorvete
 
 <img width="1918" height="1033" alt="image" src="https://github.com/user-attachments/assets/f663da06-db8c-4907-b522-c0331d3ed633" />
 <img width="1915" height="942" alt="image" src="https://github.com/user-attachments/assets/4a449092-6d23-4d8b-bf1d-f8b38d52ee8a" />
-
-
-
-
-
-
-
 
 
 
