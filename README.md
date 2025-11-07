@@ -1,18 +1,18 @@
 # info_log
-INFORMÁTICA_LOGÍSTICA
+# INFORMÁTICA_LOGÍSTICA
 
-Atividade 1: Apresentação em grupo no Canva
+# Atividade 1: Apresentação em grupo no Canva
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/537bebe6-1cc9-4a1a-9bef-12c5ca6caa36" />
 
-Atividade 2: Análise exploratória referente a dados abertos sobre bares, restaurantes e cafeterias existentes no Brasil
+# Atividade 2: Análise exploratória referente a dados abertos sobre bares, restaurantes e cafeterias existentes no Brasil
 <img width="1914" height="1007" alt="image" src="https://github.com/user-attachments/assets/5c259af3-4a01-4536-9baf-56c2e6da22e4" />
 
-Atividade 3: Análise do Comex Stat
+# Atividade 3: Análise do Comex Stat
 Aprendemos a fazer análise de dados, inclusive usando o PROCV.
 
 <img width="1916" height="968" alt="image" src="https://github.com/user-attachments/assets/e405f875-3c78-4a8a-b988-45904231c0e1" />
 
-Atividade 4: Power BI
+# Atividade 4: Power BI
 Aprendemos a manusear e tratar dados no Power BI.
 <img width="1435" height="803" alt="image" src="https://github.com/user-attachments/assets/b9e92b6d-c981-44c5-93e1-f2b09fa27405" />
 
