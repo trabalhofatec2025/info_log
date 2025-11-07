@@ -17,7 +17,10 @@ Aprendemos a manusear e tratar dados no Power BI.
 <img width="1435" height="803" alt="image" src="https://github.com/user-attachments/assets/b9e92b6d-c981-44c5-93e1-f2b09fa27405" />
 
 
+# Atividade 5 - Regressão Linear - Venda de Sorvete
 
+<img width="1918" height="1033" alt="image" src="https://github.com/user-attachments/assets/f663da06-db8c-4907-b522-c0331d3ed633" />
+<img width="1915" height="942" alt="image" src="https://github.com/user-attachments/assets/4a449092-6d23-4d8b-bf1d-f8b38d52ee8a" />
 
 
 
@@ -51,7 +54,4 @@ Formula: =PROCV(Z1;'Tabela de Dados'!C:S;6;FALSO), usei a formula PROCV, para pr
 Tabela: Perguntas - 5 - Pergunta. Quantos estabecimentos já estão em funcionalidade
 Formula: =CONT.SES(AB2:AB56516;AD2), usei a formula CONT.SES para contar quantos estabelecimentos estao em operação.
 
-Atividade 4 - Regressão Linear - Venda de Sorvete
 
-<img width="1918" height="1033" alt="image" src="https://github.com/user-attachments/assets/f663da06-db8c-4907-b522-c0331d3ed633" />
-<img width="1915" height="942" alt="image" src="https://github.com/user-attachments/assets/4a449092-6d23-4d8b-bf1d-f8b38d52ee8a" />
