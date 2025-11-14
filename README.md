@@ -5,6 +5,10 @@
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/537bebe6-1cc9-4a1a-9bef-12c5ca6caa36" />
 
 
+# Atividade 2: Análise exploratória referente a dados abertos sobre bares, restaurantes e cafeterias existentes no Brasil
+<img width="1914" height="1007" alt="image" src="https://github.com/user-attachments/assets/5c259af3-4a01-4536-9baf-56c2e6da22e4" />
+
+
 Trabalho informatica
 Tabela: Dinamica Grafico - Foi usado a opção "Graficos Dinamicos e Tabelas Dinamicas" em "Inserir"
 Tabela: Perguntas - 1 - Pergunta. Qual a maior especialidade de restaurantes no Brasil.
@@ -17,10 +21,6 @@ Tabela: Perguntas - 4 - Pergunta. Qua é o endereço do estabelecimento CAFE POR
 Formula: =PROCV(Z1;'Tabela de Dados'!C:S;6;FALSO), usei a formula PROCV, para procurar o endereço usando a informação na coluna Z1 como base 
 Tabela: Perguntas - 5 - Pergunta. Quantos estabecimentos já estão em funcionalidade
 Formula: =CONT.SES(AB2:AB56516;AD2), usei a formula CONT.SES para contar quantos estabelecimentos estao em operação.
-
-
-# Atividade 2: Análise exploratória referente a dados abertos sobre bares, restaurantes e cafeterias existentes no Brasil
-<img width="1914" height="1007" alt="image" src="https://github.com/user-attachments/assets/5c259af3-4a01-4536-9baf-56c2e6da22e4" />
 
 # Atividade 3: Análise do Comex Stat
 Aprendemos a fazer análise de dados, inclusive usando o PROCV.
